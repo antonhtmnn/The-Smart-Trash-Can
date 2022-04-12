@@ -1,8 +1,5 @@
 # The-Smart-Trash-Can
 
-Projektdokumentation
-====================
-
 1\. Einleitung
 --------------
 
@@ -31,6 +28,7 @@ Die verschiedenen Baugruppen, einzelne Systembestandteile, Kriterien der Mülltr
 <figure>
   <img src="./Bilder/Roboter.png" alt="alt text" title="Gesamtansicht" width="300"/>
   <figcaption>Abb. 1: Gesamtansicht</figcaption>
+  <br/>
 </figure>
 
 ### 2.2 Systembestandteile
@@ -42,6 +40,7 @@ Eine Detailansicht des Eingangsbereichs, mit oben genannten Sensoren, ist in *Ab
 <figure>
   <img src="./Bilder/Eingangsbereich.png" alt="alt text" title="Eingangsbereich" width="350"/>
   <figcaption>Abb. 2: Eingangsbereich</figcaption>
+  <br/>
 </figure>
 
 <br/>
@@ -52,6 +51,7 @@ Im ersten Schritt, überprüfen wir das Gewicht der Waage. So können wir festst
  <figure>
    <img src="./Bilder/Programmablaufplan.png" alt="alt text" title="Programmablaufplan" width="350"/>
    <figcaption>Abb. 3: Programmablaufplan</figcaption>
+   <br/>
  </figure>
 
  <br/>
@@ -63,6 +63,7 @@ Detailansichten des Verteilungssystems sind in *Abbildung 4* zu sehen.
 <figure>
   <img src="./Bilder/Verteilungssystem.png" alt="alt text" title="Verteilungssystem" width="900"/>
   <figcaption>Abb. 4: Verteilungssystem</figcaption>
+  <br/>
 </figure>
 
 ### 2.3 Technische Daten
@@ -112,6 +113,7 @@ In diesem Abschnitt werden wir alle von uns verbauten Materialien auflisten, hie
 <figure>
   <img src="./Bilder/Pinbelegung.png" alt="alt text" title="Pinbelegung" width="580"/>
   <figcaption>Abb. 5: Pinbelegung</figcaption>
+  <br/>
 </figure>
 
 <br/>
