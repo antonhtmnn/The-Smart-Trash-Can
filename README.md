@@ -65,6 +65,7 @@ The-Smart-Trash-Can/
 ├── TheSmartTrashCan/
 │   └── TheSmartTrashCan.ino
 ├── documentation.md
+├── LICENSE
 └── README.md
 ```
 
