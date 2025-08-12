@@ -3,6 +3,14 @@
 
 The Smart Trash Can is an innovative project aimed at addressing the environmental challenge of proper waste segregation. The project involves a robot capable of automatically identifying and sorting waste into appropriate categories.
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=o4RRQOSKF5w" title="The Smart Trash Can">
+    <img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1649780668/video_to_markdown/images/youtube--o4RRQOSKF5w-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="The Smart Trash Can — demo video thumbnail" width="640" />
+  </a>
+  <br/>
+  <sub>▶ click image to watch demo video</sub>
+</p>
+
 ### Table of Contents
 
 - [Project Description](#project-description)
@@ -16,14 +24,6 @@ The Smart Trash Can is an innovative project aimed at addressing the environment
 ### Project Description
 
 Overfilled trash cans are a significant environmental issue. In Germany, only 68% of households practice waste separation, according to a [statistic](https://de.statista.com/statistik/daten/studie/1225/umfrage/praktizierte-muelltrennung-in-den-eu-laendern/). The Smart Trash Can aims to provide a solution by reliably analyzing and automatically sorting waste into designated bins.
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=o4RRQOSKF5w" title="The Smart Trash Can">
-    <img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1649780668/video_to_markdown/images/youtube--o4RRQOSKF5w-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="The Smart Trash Can — demo video thumbnail" width="640" />
-  </a>
-  <br/>
-  <sub>▶ click image to watch demo video</sub>
-</p>
 
 ### Installation
 
